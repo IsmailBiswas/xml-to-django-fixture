@@ -1,0 +1,8 @@
+Table_Name,column_name,data_type,is_nullable,Length/precision
+"Tags","Id (PK)","int","NO","10"
+"Tags","TagName","nvarchar","YES","35"
+"Tags","Count","int","NO","10"
+"Tags","ExcerptPostId","int","YES","10"
+"Tags","WikiPostId","int","YES","10"
+"Tags","IsModeratorOnly","bit","YES",""
+"Tags","IsRequired","bit","YES",""
